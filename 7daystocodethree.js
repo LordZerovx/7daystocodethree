@@ -58,3 +58,7 @@ while (true) {
  let palavraTecnologia = gostariaDeAprender.length > 1 ? 'tecnologias' : 'tecnologia';
 
  alert(`Muito interessante saber ${palavraQuais} ${palavraTecnologia} você gostaria de aprender, por agora é só isso, tchau tchau!`);
+
+ //ta ai um codigo super simples kk porém complexo kkkkkkk vai entender kkk
+ //enfim kkk se tuzinha mesmo caro telespectador que acompanha esse canal a mais de um ano.... A palavra chave é....
+ //"odagetnama-otiocsib" ou "biscoito-amantegado" ps: me corrige se estiver errado kkk
